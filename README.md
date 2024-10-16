@@ -1,1 +1,2 @@
-# GROUP-WORK
+This is a simple web application that allows users to input and submit company details. The program collects basic information such as the company name, email address, contact number, and a brief description. Once the form is submitted, the entered information is displayed on the same page without reloading it.
+The project is built using HTML, CSS, and JavaScript to handle user input and display the results.
